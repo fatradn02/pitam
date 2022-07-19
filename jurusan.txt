@@ -1,7 +1,4 @@
 Jurusan Pondok Informatika
  - Programming 
  - Design
- - Video
- -Tatabago
- -Musick
--1232
+
